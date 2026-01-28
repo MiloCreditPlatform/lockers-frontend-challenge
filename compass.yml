@@ -1,0 +1,16 @@
+name: lockers-frontend-challenge
+id: ari:cloud:compass:125e5b59-5dcb-4d8d-887a-cb1dbad05f83:component/2272ed1f-15f1-4c63-9458-923dfebe89bc/4a8b0444-c6a5-45df-99e0-5987b9929cbc
+description: Frontend & architecture challenge for a Lockers CMS and locker selection MVP using Next.js.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/MiloCreditPlatform/lockers-frontend-challenge
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
